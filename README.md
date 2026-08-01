@@ -26,7 +26,6 @@ The dashboard analyzes **1,351 unique products** and **27M+ customer reviews**, 
 
 ![Key Insights](5.%20Insight.png)
 
-![Overall Dashboard]/1.%20Overall.png)
 
 ## 📌 Project Highlights
 
