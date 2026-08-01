@@ -49,7 +49,6 @@ The dashboard analyzes **1,351 unique products** and **27M+ customer reviews**, 
 * [DAX Calculations](#-dax-calculations)
 * [Business Recommendations](#-business-recommendations)
 * [Project Structure](#-project-structure)
-* [Screenshots](#-screenshots)
 * [Author](#-author)
 
 ---
