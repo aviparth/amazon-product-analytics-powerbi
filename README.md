@@ -5,6 +5,7 @@ An end-to-end **Amazon Product Analytics Dashboard** built in **Power BI** to an
 The dashboard analyzes **1,351 unique products** and **27M+ customer reviews**, providing a comprehensive view of category performance, pricing strategy, and customer sentiment.
 
 ---
+(1.%20Overall.png)
 
 ## 📌 Project Highlights
 
