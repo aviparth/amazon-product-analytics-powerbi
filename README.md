@@ -361,23 +361,7 @@ amazon-product-analytics-dashboard/
 ```
 
 ---
-# Screenshots
-## 🖼 Screenshots
 
-### Overall Dashboard
-![Overall Dashboard](Overall.png)
-
-### Category Performance Analysis
-![Category Analysis](images/category_analysis.png)
-
-### Customer Satisfaction Analysis
-![Customer Satisfaction](images/customer_satisfaction.png)
-
-### Pricing & Discount Analysis
-![Pricing Analysis](images/pricing_analysis.png)
-
-### Business Insights & Recommendations
-![Business Insights](images/business_insights.png)
 ---
 
 # 🚀 How to Use
